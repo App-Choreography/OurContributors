@@ -4,4 +4,6 @@
 
 ### Simply Contribute to any of our repositaries, and we will automatically add you here!
 
-Contributed but not seen yourself here? Raise an issue with your name!
+> Contributed but not seen yourself here? Raise an issue with your name!
+
+---------------------------------------------------------------------------------------------
