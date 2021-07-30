@@ -20,7 +20,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#projectManagement-CodingSpecies" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/AvidCoder101"><img src="https://avatars.githubusercontent.com/u/70807684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AvidCoder</b></sub></a><br /><a href="#content-AvidCoder101" title="Content">🖋</a></td>
-    td align="center"><a href="https://github.com/JayantGoel001"><img src="https://avatars.githubusercontent.com/u/54479676?v=4" width="100px;" alt=""/><br /><sub><b>JayantGoel</b></sub></a><br /><a href="#code-JayantGoel" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/JayantGoel001"><img src="https://avatars.githubusercontent.com/u/54479676?v=4" width="100px;" alt=""/><br /><sub><b>JayantGoel</b></sub></a><br /><a href="#code-JayantGoel" title="Code">💻</a></td>
   </tr>
   
 </table>
