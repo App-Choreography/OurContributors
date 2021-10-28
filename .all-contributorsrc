@@ -49,6 +49,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "m0lese",
+      "name": "Molese",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86180257?v=4",
+      "profile": "https://molese.me",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
