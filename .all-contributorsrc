@@ -58,6 +58,33 @@
       "contributions": [
         "content"
       ]
+      },
+      {
+      "login": "m0lese",
+      "name": "Molese",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86180257?v=4",
+      "profile": "https://molese.me",
+      "contributions": [
+        "content"
+      ]
+      },
+      {
+      "login": "mayankchaudhary26",
+      "name": "Mayank Choudhary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56837137?v=4",
+      "profile": "https://dev.to/rado_mayank",
+      "contributions": [
+        "content"
+        ]
+      },
+      {
+      "login": "rtewari056",
+      "name": "Rohit Tewari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75976169?v=4",
+      "profile": "https://github.com/rtewari056",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
