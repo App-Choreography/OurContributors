@@ -2,7 +2,7 @@
 
 # 🖼 Our Hall Of Fame! 🖼
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ### Want to be seen here?
@@ -27,9 +27,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/sumitmukharjeeeeee"><img src="https://avatars.githubusercontent.com/u/59107641?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sumit Mukharjee</b></sub></a><br /><a href="#content-sumitmukharjeeeeee" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/qwe123coder"><img src="https://avatars.githubusercontent.com/u/72848513?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anirudh  Anup</b></sub></a><br /><a href="#content-qwe123coder" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/HarshitAditya27"><img src="https://avatars.githubusercontent.com/u/71604531?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harshit Aditya</b></sub></a><br /><a href="#content-HarshitAditya27" title="Content">🖋</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://molese.me"><img src="https://avatars.githubusercontent.com/u/86180257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Molese</b></sub></a><br /><a href="#content-m0lese" title="Content">🖋</a></td>
     <td align="center"><a href="https://dev.to/rado_mayank"><img src="https://avatars.githubusercontent.com/u/56837137?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mayank Choudhary</b></sub></a><br /><a href="#content-mayankchaudhary26" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/rtewari056"><img src="https://avatars.githubusercontent.com/u/75976169?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohit Tewari</b></sub></a><br /><a href="#content-rtewari056" title="Content">🖋</a></td>
+    <td align="center"><a href="https://thuongtruonginc.wixsite.com/portfolio"><img src="https://avatars.githubusercontent.com/u/71834167?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a><br /><a href="#content-thuongtruong1009" title="Content">🖋</a></td>
   </tr>
 </table>
 
