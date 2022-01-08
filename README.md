@@ -2,7 +2,7 @@
 
 # 🖼 Our Hall Of Fame! 🖼
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ### Want to be seen here?
@@ -34,6 +34,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/rtewari056"><img src="https://avatars.githubusercontent.com/u/75976169?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohit Tewari</b></sub></a><br /><a href="#content-rtewari056" title="Content">🖋</a></td>
     <td align="center"><a href="https://thuongtruonginc.wixsite.com/portfolio"><img src="https://avatars.githubusercontent.com/u/71834167?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a><br /><a href="#content-thuongtruong1009" title="Content">🖋</a></td>
     <td align="center"><a href="https://kira272921.netlify.app"><img src="https://avatars.githubusercontent.com/u/90365542?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kira</b></sub></a><br /><a href="#content-Kira272921" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/peace-cyebukayire-b4a810187/"><img src="https://avatars.githubusercontent.com/u/55869293?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peace</b></sub></a><br /><a href="#content-Cyebukayire" title="Content">🖋</a></td>
   </tr>
 </table>
 
